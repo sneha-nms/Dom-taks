@@ -1,0 +1,42 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-shadow: border-box; 
+    background: color #ecf0fc;
+    background-repeat: no-repeat;
+    outline: none;
+    font-family: sans-serif;
+  }
+
+  .container{
+    height: 100vh;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.count{
+   width: 50%;
+   height: 20%;
+   background-color: rgb(243, 246, 239);
+   
+  }
+
+#btn1{
+   background-color: rgba(131, 241, 67, 0.949);
+   font-size: 18px;
+   height: 40px;
+   width: 108px;
+   }
+   #btn2{
+    background-color: rgb(250, 247, 247);
+    font-size: 18px;
+    height: 40px;
+    width: 108px;
+    }
+    #btn3{
+        background-color: rgb(234, 76, 24);
+        font-size: 18px;
+        height: 40px;
+        width: 108px;
+        }

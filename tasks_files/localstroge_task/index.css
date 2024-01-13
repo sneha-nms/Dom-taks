@@ -1,0 +1,45 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    margin: o;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aqua; */
+  
+/* 
+    text-align: center; */
+
+}
+.maincontainer{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.btnlist{
+    width: 70%;
+    height: 70%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 33px;
+
+}
+button{
+    /* background-color: aqua;
+    width: 30%;
+    height: 100px; */
+    background-color: aqua;
+    width: 250px;
+    height: 50px;
+}
